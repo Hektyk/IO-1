@@ -1,0 +1,5 @@
+*************************************************************************
+* Program 4 HARDFLSH.ASM To flash LEDS (PortB) using hardware delay loop*
+* with duration read from switches (PortA)                              *
+* Hardware JP2 in, JP4 Optional, JP5 ground, JP6 Vcc                    *
+*************************************************************************
