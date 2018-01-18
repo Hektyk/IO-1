@@ -1,0 +1,6 @@
+git status - informacje
+git add . - dodaje wszystkie pliki do przechowalni
+git rm --cached -r -f  - usuniecie wszyskie pliki z przechowalni
+git commit -m "Repozytorium-1" - tworzy nowa rewizje o nazwie...
+git log - wszystkie commity
+git push - wrzucanie plikow z repozytorium lokalnego na repozytorium zdalnego
